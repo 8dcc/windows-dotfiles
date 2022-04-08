@@ -1,0 +1,1 @@
+-cur_console:d:C:\YOUR-FOLDER\HOME-FOLDER -cur_console:C:C:\YOUR-CMDER-FOLDER\cmder\icons\cmder.ico cmd /k ""%ConEmuDir%\..\init.bat" "
