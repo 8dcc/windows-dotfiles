@@ -1,4 +1,3 @@
-# Cmder dotfiles
-**Dotfiles for cmder.**
+# Windows dotfiles
 
-My files for [cmder](https://cmder.net/). Check each folder to see how to install.
+**My dotfiles for windows**
